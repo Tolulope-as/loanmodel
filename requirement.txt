@@ -5,5 +5,4 @@ scikit-learn
 joblib
 imbalanced-learn
 matplotlib
-xgboost
-lightgbm
+seaborn
